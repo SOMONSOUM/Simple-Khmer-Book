@@ -1,0 +1,10 @@
+# add to .gitignore , which files you want to ignore
+*.aux
+*.bcf
+*.idx
+*.log
+*.ptc
+*.xml
+*.gz
+*.toc
+*.pdf
